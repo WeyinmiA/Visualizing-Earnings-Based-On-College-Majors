@@ -5,6 +5,6 @@ In this project we'll be working with a dataset on the job outcomes of students 
 Each row in the dataset corresponds to a different major in college and contains information on employment rates, gender diversity, median salaries and etc. 
 
 Using visualizations, we can begin to explore questions from the dataset such as:
-Do students in more popular majors make more money? (Using scatter plots)
-What's the most common median salary? (Using histograms)
-Which category of majors have the most students? (Using bar plots)
+* Do students in more popular majors make more money? (Using scatter plots)
+* What's the most common median salary? (Using histograms)
+* Which category of majors have the most students? (Using bar plots)
